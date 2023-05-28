@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "797967763515",
+    "project_id": "shamo-d5ef9",
+    "storage_bucket": "shamo-d5ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797967763515:android:5acfebc6b90f3b30c1f41e",
+        "android_client_info": {
+          "package_name": "com.example.toko_sepatu_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797967763515-s5g9ae2ib35cac4i4hj4vv149209rt0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQT3xa04uxUNOKK-iB573g-Tj2p9NJM34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797967763515-s5g9ae2ib35cac4i4hj4vv149209rt0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
